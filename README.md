@@ -23,8 +23,11 @@ OpenWeatherMap https://openweathermap.org/
 # Repository Layout
 
 Resources_Raw: Folder containing raw csv files from Zillow, and one JSON file from OpenWeatherMap containing city and lat/lon information.
+
 Resources_Clean: Folder containing clean csv files after cleanup code was applied. Rows with Null values removed, etc.
+
 cleanup_code: Cleanup code (with blueprint) for each Raw file that was cleaned, to show the process.
+
 analysis: Analysis for both Hypotheses, including preliminary line charts, regression analysis and correlation analysis.
 
 #Project Background
